@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonHelper", "JsonHelper\JsonHelper.csproj", "{D91938D4-F48F-49D1-8EC1-16A0759D93E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D91938D4-F48F-49D1-8EC1-16A0759D93E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91938D4-F48F-49D1-8EC1-16A0759D93E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91938D4-F48F-49D1-8EC1-16A0759D93E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91938D4-F48F-49D1-8EC1-16A0759D93E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AD7987E-84E1-4791-9B5E-BE39D4992E13}
+	EndGlobalSection
+EndGlobal
